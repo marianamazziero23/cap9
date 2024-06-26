@@ -1,0 +1,79 @@
+:root {
+
+    --font-body: 'Quicksand', sans-serif;
+    --gradient: linear-gradient(45deg,
+            hsl(240deg 59% 15%) 0%,
+            hsl(241deg 62% 14%) 15%,
+            hsl(243deg 64% 14%) 37%,
+            hsl(245deg 67% 13%) 55%,
+            hsl(247deg 71% 12%) 69%,
+            hsl(249deg 76% 12%) 78%,
+            hsl(252deg 81% 11%) 86%,
+            hsl(254deg 87% 11%) 91%,
+            hsl(256deg 93% 10%) 96%,
+            hsl(258deg 100% 10%) 100%);
+}
+
+::-webkit-textfield-decoration-container {
+    height: 10%;
+}
+
+div {
+    padding: 20px;
+    margin-left: 20px;
+}
+
+a {
+    text-align: center;
+    font-family: "Playwrite PT";
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+
+}
+
+ul {
+    position: absolute;
+    left: 80%;
+
+}
+
+
+p {
+    color: green;
+    text-align: center;
+    font-family: "Playwrite PT";
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+
+}
+
+.table.table.border {
+
+    width: 70%;
+    position: relative;
+    left: 17%;
+
+
+}
+
+tr {
+
+    border: 1px solid;
+    text-align: center;
+
+}
+
+h5 {
+    color: green;
+    text-align: center;
+    font-family: "Playwrite PT";
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+h6 {
+    text-align: center;
+}
